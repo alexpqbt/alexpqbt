@@ -5,7 +5,6 @@ Third-year undergraduate IT student focused on web development, database fundame
 This GitHub profile contains a mix of university coursework, experiments, and personal projects. Repositories are generally small and scoped to explore specific concepts rather than production-ready applications.
 
 # Currently Learning
+- Mobile development
 - React framework
-- Three.js
 - Web design and layout experimentation
-- Iterating on my personal website
