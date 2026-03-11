@@ -7,7 +7,6 @@ This GitHub profile contains a mix of university coursework, experiments, and pe
 # Technologies
 - Web: HTML/CSS/JS, React
 - Backend: Nodejs, Express, SQL
-- Databases: SQLite, MariaDB, Microsoft SQL Server
 - Tools: Linux, Git
 
 # Development Focus
