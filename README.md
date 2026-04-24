@@ -7,6 +7,7 @@ This GitHub profile contains a mix of university coursework, experiments, and pe
 # Technologies
 - Web: HTML/CSS/JS, React
 - Backend: Nodejs, Express, SQL
+- AI: Python, LangChain
 - Tools: Linux, Git
 
 # Development Focus
