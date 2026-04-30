@@ -9,6 +9,3 @@ This GitHub profile contains a mix of university coursework, experiments, and pe
 - Backend: Nodejs, Express, SQL
 - AI: Python, LangChain
 - Tools: Linux, Git
-
-# Development Focus
-Focused on frontend with plans to grow into fullstack by learning backend and database skills.
